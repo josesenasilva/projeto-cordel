@@ -81,18 +81,18 @@ section.imagem > p {
     display: inline-block;
     padding: 5px;
     text-shadow: 2px 1px 0px black;
+    background-size: cover;
 }
 
 section#img01 {
-    background-image: url(../desafio.012/imagens/background001.jpg);
+    background-image: url(../desafio.014/imagens/background001.jpg);
     background-position: right center;
-    background-size: cover;
+    
 
 }
 
 section#img02 {
     background-image: url(../desafio.012/imagens/background002.jpg);
-    background-size: cover;
 
 }
 
